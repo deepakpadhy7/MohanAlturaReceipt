@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Mohan Altura Receipt</string>
+    <string name="generate_receipt">Generate Receipt</string>
+    <string name="preview_receipt">Preview Receipt</string>
+    <string name="save_pdf">Save as PDF</string>
+    <string name="share_receipt">Share Receipt</string>
+    <string name="receipt_generated">Receipt generated successfully!</string>
+    <string name="fill_all_fields">Please fill all required fields</string>
+
+    <!-- Months -->
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Wings -->
+    <string-array name="wings">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B4</item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+    </string-array>
+
+    <!-- Payment Modes -->
+    <string-array name="payment_modes">
+        <item>Cash</item>
+        <item>UPI</item>
+        <item>Net Banking</item>
+    </string-array>
+</resources>

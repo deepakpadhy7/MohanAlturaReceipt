@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.MohanAlturaReceipt" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/dark_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/light_green</item>
+        <item name="android:statusBarColor">@color/dark_green</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
